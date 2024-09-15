@@ -1,6 +1,6 @@
 import './style.css'
 const cardGrid = document.getElementById('card-grid');
-const apiUrl = 'http://localhost:3000/cats';
+const apiUrl = 'https://fake-api-tawny.vercel.app/cats';
 const confirmModal = document.getElementById('confirm-modal');
 const confirmBtn = document.getElementById('confirm-btn');
 const cancelBtn = document.getElementById('cancel-btn');
